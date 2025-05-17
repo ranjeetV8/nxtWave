@@ -1,3 +1,3 @@
 ## This project is underdevelopment
-stil woking on this project.
+ woking on this project.
 
